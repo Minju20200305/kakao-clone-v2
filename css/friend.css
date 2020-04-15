@@ -73,3 +73,8 @@
     background-color: #f5f5f5;
     border-radius: 5px;
 }
+
+.emptypart{
+    height: 70px;
+    width: 100%;
+}
