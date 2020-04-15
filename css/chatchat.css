@@ -146,6 +146,7 @@ font-size: 22px;
 }
 .sent-message{
     align-self: flex-end;
+    margin-right: -45px;
 }
 @keyframes spin{
     from{
