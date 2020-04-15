@@ -1,5 +1,5 @@
 
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mali:ital,wght@0,400;0,500;0,600;0,700;1,300&display=swap');
 @import "reset.css";
 @import "status-bar.css";
 @import "header.css";
@@ -11,6 +11,7 @@
 @import "setting.css";
 @import "chat.css";
 @import "mobile.css";
+@import "chatchat.css";
 
 *{
     box-sizing: border-box;}
@@ -19,7 +20,7 @@ body {
     background-color: white;
     padding: 10px 20px;
     color: #020202;
-    font-family: "Open Sans", -apple-system, BlinkMacSystemFont, 'Segoe UI', 
+    font-family: "Mali", -apple-system, BlinkMacSystemFont, 'Segoe UI', 
     Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     
 

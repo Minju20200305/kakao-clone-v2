@@ -7,20 +7,24 @@
 
 .friend .friend__avatar {
    width: 50px;
+   height: 45px;
    border-radius: 37%;
 }
 
 .friend__avatar.g-avatar {
     width: 70px;
+    height: 65px;
 }
 
 .friend__avatar.m-avatar {
     width: 60px;
+    height: 55px;
 }
 
 .friend .friend__column{
     display: flex;
     align-items: center;
+    margin-bottom: 20px;
 }
 
 .friend .friend__avatar{
@@ -47,17 +51,18 @@
 }
 
 .friend .friend__now-listening{
-    border: 3px solid #5aad77;
+    border: 3px solid rgba(80, 201, 245, 0.883);
     padding:5px 10px;
     border-radius: 15px;
-    font-size: 14px;
+    font-size: 12px;
     }
 
 .friend__now-listening span {
     opacity: 0.6;
+    font-size: 12px;
 }
 .friend__now-listening i {
-    font-size: 12px;
+    font-size: 9px;
 }
 
 .friend__add-btn{
